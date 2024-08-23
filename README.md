@@ -16,5 +16,5 @@
 - .net 8: <https://dotnet.microsoft.com/en-us/download/dotnet/8.0>
 - NUnit 3: <https://nunit.org/>
 - Kiota:
-  -- Tool <https://learn.microsoft.com/en-us/openapi/kiota/install?tabs=bash>
-  -- Nuget <https://learn.microsoft.com/en-us/openapi/kiota/quickstarts/dotnet#add-dependencies>
+  - Tool <https://learn.microsoft.com/en-us/openapi/kiota/install?tabs=bash>
+  - Nuget <https://learn.microsoft.com/en-us/openapi/kiota/quickstarts/dotnet#add-dependencies>
